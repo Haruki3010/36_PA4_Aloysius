@@ -1,9 +1,10 @@
-Unit Testing
-Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually scrutinized for proper operation.
-Unit Testing is conducted by Software developers and sometimes QA staff
+Updated by 13_Hilman
+-Unit Testing
+-Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually scrutinized for proper operation.
+-Unit Testing is conducted by Software developers and sometimes QA staff
 It is type of Whitebox testing
 
-Integration Testing
-Integration testing is the phase in software testing in which the whole software module is tested or if it consists of multiple software modules they are combined and then tested as a group.
+-Integration Testing
+-Integration testing is the phase in software testing in which the whole software module is tested or if it consists of multiple software modules they are combined and then tested as a group.
 Integration testing is the responsibility of the developer
 It is type of Blackbox testing
